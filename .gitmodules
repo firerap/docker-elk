@@ -1,0 +1,3 @@
+[submodule "dockerfiles"]
+	path = dockerfiles
+	url = gitlab@gitlab.customertimes.com:web-department/dockerfiles.git
